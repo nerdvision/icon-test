@@ -1,0 +1,1 @@
+logtalk test file
